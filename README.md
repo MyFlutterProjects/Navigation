@@ -16,13 +16,13 @@ This project is about navigation in flutter
   
   - Have not exhaustively expored the class but have been able to use two of its methods:
     - a.  MaterialPageRoute 
-    `   Navigator.push(context, MaterialPageRoute(builder: (context){
+    ```  Navigator.push(context, MaterialPageRoute(builder: (context){
            return ScreenOne();
           }));
-          `
+          ```
           it is good for simple apps, to move from one screen to another then back, to navigate back u use **Navigator.pop(context)**
     - b. pushNamed route
-    `
+    ```
      initialRoute: '/', // required
       routes: { // routes
         '/': (context) => HomeScreen(),
@@ -35,10 +35,11 @@ This project is about navigation in flutter
       },
 
 
-      `
+      ```
       on the component ** Navigator.pushNamed(context, routeNameAsAstring);**
-
       
+
+
   
 
 # Navigation
