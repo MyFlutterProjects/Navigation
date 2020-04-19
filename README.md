@@ -56,14 +56,11 @@ This project is about navigation in flutter
     - Have also leant how to toggle widgets, handling this  using lists.
 
     ### Images 
-    ![Image of Routing demo]
-    (https://github.com/MyFlutterProjects/Navigation/tree/master/images/routing.png)
+    ![Image of Routing demo](https://github.com/MyFlutterProjects/Navigation/tree/master/images/routing.png)
 
-    ![Image Drawer mage of navigation app demo]
-    (https://github.com/MyFlutterProjects/Navigation/tree/master/images/drawer.png)
+    ![Image Drawer mage of navigation app demo](https://github.com/MyFlutterProjects/Navigation/tree/master/images/drawer.png)
 
-     ![Image bottom navigatio]
-    (https://github.com/MyFlutterProjects/Navigation/tree/master/images/bottom_navigation.png)
+     ![Image bottom navigatio](https://github.com/MyFlutterProjects/Navigation/tree/master/images/bottom_navigation.png)
 
 
 
