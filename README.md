@@ -57,13 +57,13 @@ This project is about navigation in flutter
 
     ### Images 
      ![Routing demo]
-    (images/images/routing.png)
+    (https://github.com/MyFlutterProjects/Navigation/tree/master/images/routing.png)
 
     ![Drawer mage of navigation app demo]
-    (images/images/drawer.png)
+    (https://github.com/MyFlutterProjects/Navigation/tree/master/images/drawer.png)
 
      ![bottom navigatio]
-    (images/bottom_navigation.png)
+    (https://github.com/MyFlutterProjects/Navigation/tree/master/images/bottom_navigation.png)
 
 
 
